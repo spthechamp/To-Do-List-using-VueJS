@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": "CwVS2ccEB",
+      "title": "Early wake up",
+      "completed": true,
+      "created_at": "3/12/2024, 6:50:38 PM"
+    },
+    {
+      "id": "oUyStPLd2",
+      "title": "Breakfast",
+      "completed": true,
+      "created_at": "3/12/2024, 6:50:45 PM"
+    },
+    {
+      "id": "u11rNHgo_",
+      "title": "Study",
+      "completed": false,
+      "created_at": "3/12/2024, 6:50:53 PM"
+    }
+  ]
+}
